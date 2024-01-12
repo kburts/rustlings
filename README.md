@@ -4,6 +4,10 @@
 
 </div>
 
+![Alt completion image}(https://private-user-images.githubusercontent.com/4485762/296103040-bb1f47ff-dbfe-42e0-99f5-6eb6b40270bd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwMjQ4NTUsIm5iZiI6MTcwNTAyNDU1NSwicGF0aCI6Ii80NDg1NzYyLzI5NjEwMzA0MC1iYjFmNDdmZi1kYmZlLTQyZTAtOTlmNS02ZWI2YjQwMjcwYmQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDExMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMTJUMDE1NTU1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YTgyODdiYjY5Y2JhMmZmYjU2ODhjNzg1ZWMzYTE2OTNkMGY5YjBjNGQ2MDhhNGZlM2E3MTk3YWEwNDY3ZGIwOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.KooSxqNG9qb56yzgzECx0zV3-gLhxIug1Eyhj2dRpBE)
+
+
+
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
 _...looking for the old, web-based version of Rustlings? Try [here](https://github.com/rust-lang/rustlings/tree/rustlings-1)_
